@@ -2,21 +2,28 @@
 
 ## Overview
 
-This project is an interactive Power BI dashboard developed to analyze YouTube channel performance and audience engagement. It provides insights into channel growth, views, subscribers, and content trends through interactive visualizations.
+This project is a Power BI dashboard created to analyze YouTube channel performance and audience engagement. It includes interactive reports that help understand views, subscribers, likes, comments, and country-wise performance.
 
 ## Tools Used
 
 - Power BI
 - Power Query
 - DAX
-- Excel
+- Microsoft Excel
+
+## What I Did
+
+- Cleaned and transformed the data using Power Query.
+- Created DAX measures for KPIs and calculations.
+- Built interactive dashboards with charts, cards, and slicers.
+- Analyzed channel performance and country-wise insights.
 
 ## Dashboard Preview
 
-### Dashboard Overview
+### Dashboard
 ![Dashboard](01-Dashboard)
 
-### Research Dashboard
+### Research
 ![Research](02-Research)
 
 ### View by Country
@@ -27,3 +34,11 @@ This project is an interactive Power BI dashboard developed to analyze YouTube c
 
 ### About
 ![About](05-About)
+
+## Learning
+
+This project helped me improve my Power BI skills, especially in data cleaning, DAX, dashboard design, and presenting insights through visual reports.
+
+---
+
+Created as part of my Data Analyst training and learning journey.
