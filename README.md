@@ -14,13 +14,16 @@ This project is an interactive Power BI dashboard developed to analyze YouTube c
 ## Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard](YAHAN_APNI_FIRST_IMAGE_KA_NAAM.png)
+![Dashboard](01-Dashboard)
 
 ### Research Dashboard
-![Research](YAHAN_APNI_SECOND_IMAGE_KA_NAAM.png)
+![Research](02-Research)
 
-### Country Analysis
-![Country](YAHAN_APNI_THIRD_IMAGE_KA_NAAM.png)
+### View by Country
+![View by Country](03-View-by-Country)
 
 ### Conclusion
-![Conclusion](YAHAN_APNI_FOURTH_IMAGE_KA_NAAM.png)
+![Conclusion](04-Conclusion)
+
+### About
+![About](05-About)
